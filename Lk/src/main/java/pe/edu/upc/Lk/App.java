@@ -22,9 +22,10 @@ public class App
 		}
         
         System.out.println( "Hello World!" );
+        for (int i = 0; i < arrNombre.length; i++) {
+        	System.out.print("RATA ASQUEROSA" );
     }
     
-    for (int i = 0; i < arrNombre.length; i++) {
-    	System.out.print("RATA ASQUEROSA" );
+    }
     	
 }
